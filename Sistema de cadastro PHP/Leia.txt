@@ -1,0 +1,16 @@
+WAMP
+----
+
+Extraia na pasta WWW
+Digite no navegador após ativar o Wamp : localhost
+
+
+-----------------------------------------------------------------------
+
+XAMPP
+-----
+
+Extraia na pasta HTDOCS
+Digite no navegador após ativar o Xampp : localhost
+
+-----------------------------------------------------------------------
